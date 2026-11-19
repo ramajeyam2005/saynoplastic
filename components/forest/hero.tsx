@@ -11,8 +11,8 @@ export function Hero() {
     >
       <div className="relative order-2 aspect-[4/3] w-full sm:aspect-[16/9] lg:absolute lg:inset-0 lg:aspect-auto">
         <Image
-          src="/images/hero-forest.png"
-          alt="A cute worried monkey sits on a thick branch of a huge old tree, holding a plastic water bottle while sunlight streams through the green forest."
+          src="/images/hero-forest-monkey-branch.png"
+          alt="A cute concerned monkey sits on a thick branch of a huge old tree, gripping the branch with one hand while holding a plastic water bottle in the other as sunlight streams through the green forest."
           fill
           priority
           sizes="100vw"
